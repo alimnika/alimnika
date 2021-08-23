@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @alimnika
+- 👋 Hi, I’m @alimnika  - Nurzat Karypbekova
 - 👀 I’m interested in coding specially creating websites.
 - 🌱 I’m currently learning HTML, CSS, JavaScript and React
 - 💞️ I’m looking to collaborate on ...
